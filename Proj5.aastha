@@ -1,0 +1,4 @@
+import random
+
+input("Ask your question: ")
+print("Answer:", random.choice(["Yes", "No"]))
